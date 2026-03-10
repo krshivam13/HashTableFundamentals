@@ -1,6 +1,6 @@
 import java.util.*;
 
-class git checkout develop {
+class PlagiarismDetector {
 
     private Map<String, Set<Integer>> index = new HashMap<>();
 
