@@ -1,6 +1,6 @@
 import java.util.*;
 
-class git checkout develop {
+class AutocompleteSystem {
 
     Map<String, Integer> frequency = new HashMap<>();
 
